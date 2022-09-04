@@ -1,2 +1,2 @@
-# snj-resoluri
+# snj-resolusi
 Repository untuk menyimpan rencana saya kedepannya
