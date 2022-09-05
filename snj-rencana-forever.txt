@@ -2,6 +2,8 @@ RENCANA FOREVER SNJ
 
 - Menghilangkan kebiasaan menunda
 - Fokus belajar
+ * Belajar backend 
+ * Belajar bahasa inggris
 - Mempelajari hal-hal baru
   * PHP - Laravel
   * Javascript - NodeJs
