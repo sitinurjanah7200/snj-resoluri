@@ -12,4 +12,3 @@ RENCANA FOREVER SNJ
   > react
   * Golang
 - Membuat catatan keberhasilan
-- Memperluas relasi
