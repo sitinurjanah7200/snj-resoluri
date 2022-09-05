@@ -5,8 +5,10 @@ RENCANA FOREVER SNJ
  * Belajar backend 
  * Belajar bahasa inggris
 - Mempelajari hal-hal baru
-  * PHP - Laravel
-  * Javascript - NodeJs
+  * PHP 
+  > laravel
+  * Javascript
+  > angular
+  > react
   * Golang
 - Membuat catatan keberhasilan
-- Memperluas relasi
